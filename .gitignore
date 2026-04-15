@@ -1,0 +1,16 @@
+# Foundry
+cache/
+out/
+broadcast/
+
+# Dotenv - NEVER commit .env
+.env
+.env.local
+.env.*
+!.env.example
+
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
